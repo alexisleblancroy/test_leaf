@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1110969</docId>
+    <title>ANOM | C11A | vol. 99, f. 56r-58v</title>
+    <uploadTimestamp>1659738734396</uploadTimestamp>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>lemh0011@uqar.ca</uploader>
+    <uploaderId>99738</uploaderId>
+    <nrOfPages>6</nrOfPages>
+    <pageId>45877439</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=TNZPVCFLMFOMMUMYLYWDASJA</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=TNZPVCFLMFOMMUMYLYWDASJA</thumbUrl>
+    <externalId>NA</externalId>
+    <authority>NA</authority>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1110969</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>34475</colId>
+            <colName>ANOM | C11A | Correspondance générale, Canada</colName>
+            <description>created by maxime_gohier@uqar.ca</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>34475</mainColId>
+</trpDocMetadata>

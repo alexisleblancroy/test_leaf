@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Nouvelle-France (17e-18e)(htr_id=40882)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-08-06T00:32:13.290+02:00</Created>
+        <LastChange>2024-08-12T23:14:49.645+02:00</LastChange>
+        <TranskribusMetadata docId="1110969" pageId="45877439" pageNr="1" tsid="182555188" status="FINAL" userId="12643" imgUrl="https://files.transkribus.eu/Get?id=TNZPVCFLMFOMMUMYLYWDASJA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AHUSUSGVRFWIXXHVMNWOHRPC" imageId="37321735"/>
+    </Metadata>
+    <Page imageFilename="IMG_2863_00.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1728915635775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1665018930328_83"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1665018939462_88"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1665018939462_87"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1665018950473_94"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1665018958654_99"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1665018958654_98"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1665018930328_83" custom="readingOrder {index:0;}">
+            <Coords points="350,368 2757,368 2757,864 350,864"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2422,415 2456,422 2477,408 2502,435 2518,434 2530,445 2548,446 2555,337 2542,336 2522,353 2508,337 2483,356 2468,345 2452,354 2426,350"/>
+                <Baseline points="2436,410 2461,414 2487,417 2512,417 2538,416"/>
+                <TextEquiv>
+                    <Unicode>56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="978,509 1898,490 1985,542 2143,491 2456,568 2582,524 2462,417 2181,419 2032,321 1825,382 1464,332 1170,312 975,322"/>
+                <Baseline points="993,462 1071,461 1150,460 1229,458 1308,457 1387,455 1466,453 1544,452 1623,450 1702,449 1781,449 1860,450 1939,452 2018,454 2096,458 2175,464 2254,470 2333,479 2412,489 2491,503 2570,516"/>
+                <TextEquiv>
+                    <Unicode>Conseil solemnel tenu avec les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} organization {offset:0; length:8;} place {offset:12; length:11;} place {offset:26; length:8;}">
+                <Coords points="1033,635 1247,621 1368,674 1579,612 1767,683 2303,678 2569,770 2576,522 2535,511 2426,573 2155,502 1601,551 1524,504 1327,563 1123,528 1035,573"/>
+                <Baseline points="1047,617 1122,617 1198,617 1273,617 1349,615 1424,615 1500,614 1575,614 1651,612 1726,613 1802,614 1878,615 1953,617 2029,620 2104,624 2180,630 2255,636 2331,644 2406,654 2482,666 2558,680"/>
+                <TextEquiv>
+                    <Unicode>Saulteux de ChagȢamigon à Montreal le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} date {offset:0; length:15;year:1753; day:26; month:7;}">
+                <Coords points="1031,837 1238,853 1307,834 1467,864 1556,790 1658,810 1652,664 1506,717 1479,702 1412,726 1356,678 1267,666 1198,706 1094,702 1027,728"/>
+                <Baseline points="1041,786 1071,783 1101,780 1131,776 1161,774 1191,773 1221,770 1251,768 1281,768 1311,767 1342,767 1372,765 1402,765 1432,765 1462,764 1492,764 1522,762 1552,761 1582,760 1612,758 1643,756"/>
+                <TextEquiv>
+                    <Unicode>26 Juillet 1753.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>56
+Conseil solemnel tenu avec les
+Saulteux de ChagȢamigon à Montreal le
+26 Juillet 1753.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1665018939462_88" custom="readingOrder {index:1;}">
+            <Coords points="350,864 1405,864 1405,1131 350,1131"/>
+            <TextLine id="line_1665018927947_80" custom="readingOrder {index:0;}">
+                <Coords points="1145,1112 1202,1095 1258,1125 1291,1118 1313,1131 1145,1131"/>
+                <TextEquiv>
+                    <Unicode>Par un Collier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1665018727327_14" custom="readingOrder {index:1;} abbrev {offset:11; length:3;} textStyle {offset:12; length:1;superscript:true;}">
+                <Coords points="416,1040 1078,945 1293,1002 1293,1108 1005,1135 873,1071 420,1183"/>
+                <Baseline points="431,1106 535,1096 639,1089 743,1081 847,1074 951,1067 1055,1062 1159,1057 1263,1052 1293,1050"/>
+                <TextEquiv>
+                    <Unicode>Reponse de Mr. Le Général</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Par un Collier
+Reponse de Mr. Le Général</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1665018939462_87" custom="readingOrder {index:2;}">
+            <Coords points="1405,864 2757,864 2757,1131 1405,1131"/>
+            <TextLine id="line_1665018726252_9" custom="readingOrder {index:0;}">
+                <Coords points="1466,975 1685,854 1985,978 2328,859 2522,897 2528,1090 2417,1119 1922,1050 1466,1092"/>
+                <Baseline points="1466,1044 1472,1044 1576,1041 1680,1039 1784,1037 1888,1037 1992,1037 2096,1037 2200,1038 2304,1040 2408,1041 2513,1044"/>
+                <TextEquiv>
+                    <Unicode>Paroles des Sauvages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Paroles des Sauvages</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1665018950473_94" custom="readingOrder {index:3;}">
+            <Coords points="350,1131 2757,1131 2757,1333 350,1333"/>
+            <TextLine id="line_1665018927947_79" custom="readingOrder {index:0;}">
+                <Coords points="1145,1131 1313,1131 1405,1183 1644,1158 1708,1193 1710,1289 1663,1283 1627,1305 1566,1272 1520,1300 1460,1270 1359,1294 1243,1263 1150,1271"/>
+                <Baseline points="1163,1253 1189,1254 1216,1256 1243,1257 1269,1257 1296,1259 1323,1259 1349,1258 1376,1257 1403,1257 1430,1256 1456,1255 1483,1254 1510,1253 1536,1251 1563,1250 1590,1248 1616,1247 1643,1244 1670,1242 1697,1241"/>
+                <TextEquiv>
+                    <Unicode>Par un Collier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Par un Collier</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1665018958654_99" custom="readingOrder {index:4;}">
+            <Coords points="350,1333 1471,1333 1471,3687 350,3687"/>
+            <TextLine id="r1l8" custom="readingOrder {index:0;}">
+                <Coords points="452,1528 524,1561 591,1534 685,1551 876,1493 1000,1539 1086,1486 1215,1501 1367,1465 1363,1372 1248,1419 1057,1404 983,1439 677,1434 616,1463 544,1417 447,1413"/>
+                <Baseline points="465,1512 509,1508 554,1504 598,1499 643,1497 687,1493 732,1489 776,1488 821,1485 865,1483 910,1481 954,1479 999,1478 1043,1476 1088,1475 1132,1473 1177,1473 1221,1472 1266,1472 1310,1470 1355,1470"/>
+                <TextEquiv>
+                    <Unicode>Il y a longtems que je suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1665018958719_104" custom="readingOrder {index:1;} organization {offset:13; length:8;}">
+                <Coords points="1471,1608 1471,1715 1470,1715"/>
+                <TextEquiv>
+                    <Unicode>village d'un françois qui y a été</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+                <Coords points="405,1640 705,1591 811,1631 952,1581 1372,1582 1369,1522 1000,1540 881,1501 682,1551 401,1552"/>
+                <Baseline points="417,1611 464,1607 511,1603 558,1598 605,1594 652,1590 699,1587 746,1584 793,1581 840,1578 887,1577 934,1575 981,1574 1028,1572 1075,1571 1122,1571 1169,1571 1216,1571 1263,1571 1310,1571 1358,1571"/>
+                <TextEquiv>
+                    <Unicode>informé mes Enfans du meurtre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="381,1757 468,1708 576,1754 676,1701 878,1724 970,1687 1227,1742 1338,1705 1335,1585 1053,1578 987,1632 837,1658 684,1597 379,1677"/>
+                <Baseline points="392,1718 438,1711 485,1706 531,1701 578,1698 625,1694 671,1692 718,1690 765,1689 811,1688 858,1688 905,1686 951,1686 998,1686 1045,1686 1091,1685 1138,1685 1185,1684 1231,1683 1278,1680 1325,1679"/>
+                <TextEquiv>
+                    <Unicode>qui a été fait dans votre village.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="420,1987 849,1976 908,2019 964,1973 1358,1990 1355,1898 744,1943 567,1825 415,1802"/>
+                <Baseline points="434,1982 479,1980 525,1979 570,1977 616,1977 661,1976 707,1974 752,1973 798,1972 843,1971 889,1970 934,1968 980,1967 1025,1966 1071,1965 1116,1964 1162,1963 1207,1962 1253,1961 1298,1959 1344,1959"/>
+                <TextEquiv>
+                    <Unicode>Je veux bien croire que tout ce qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+                <Coords points="377,2102 766,2114 841,2079 1005,2107 1075,2066 1427,2090 1425,2001 1315,1973 1224,1972 1110,2037 790,2041 711,1990 670,2033 504,2044 448,1991 375,1997"/>
+                <Baseline points="390,2082 441,2079 492,2078 543,2076 594,2074 645,2072 696,2071 747,2069 798,2069 849,2067 901,2066 952,2064 1003,2064 1054,2063 1105,2063 1156,2061 1207,2061 1258,2061 1309,2061 1360,2060 1412,2060"/>
+                <TextEquiv>
+                    <Unicode>compose votre village n'a point entré dans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:6;}">
+                <Coords points="374,2213 642,2175 1410,2177 1427,2099 1120,2119 1067,2073 953,2116 521,2091 448,2123 372,2096"/>
+                <Baseline points="387,2178 438,2176 489,2174 541,2172 592,2171 644,2169 695,2169 746,2168 798,2168 849,2168 901,2168 952,2166 1003,2166 1055,2166 1106,2166 1158,2165 1209,2164 1260,2163 1312,2161 1363,2159 1415,2157"/>
+                <TextEquiv>
+                    <Unicode>ce meurtre, mais si vous vous attachiés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:7;}">
+                <Coords points="371,2297 558,2290 650,2336 715,2304 835,2347 884,2310 970,2329 1162,2280 1241,2326 1339,2273 1449,2272 1448,2173 1076,2232 758,2199 581,2240 370,2217"/>
+                <Baseline points="384,2283 436,2281 489,2279 541,2277 594,2276 647,2276 699,2276 752,2274 804,2274 857,2276 910,2276 962,2276 1015,2276 1067,2275 1120,2274 1173,2274 1225,2273 1278,2270 1330,2268 1383,2265 1436,2261"/>
+                <TextEquiv>
+                    <Unicode>à contenir vos jeunes gens, cela ne seroit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:8;}">
+                <Coords points="353,2451 371,2454 424,2408 447,2403 465,2419 494,2391 559,2429 669,2408 670,2340 654,2343 626,2313 589,2336 558,2322 543,2338 511,2342 481,2310 445,2294 356,2310"/>
+                <Baseline points="366,2394 392,2393 418,2391 445,2391 471,2390 497,2391 524,2391 550,2392 576,2393 603,2396 629,2398 656,2400"/>
+                <TextEquiv>
+                    <Unicode>pas arrivé.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:9;}">
+                <Coords points="384,2757 598,2765 670,2823 756,2774 829,2812 923,2745 1434,2759 1435,2608 651,2703 493,2555 387,2551"/>
+                <Baseline points="398,2732 449,2733 500,2735 551,2736 602,2738 654,2739 705,2739 756,2741 807,2741 858,2741 910,2742 961,2742 1012,2742 1063,2744 1114,2744 1166,2744 1217,2744 1268,2744 1319,2745 1370,2745 1422,2745"/>
+                <TextEquiv>
+                    <Unicode>Je ne me paye point des raisons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:10;}">
+                <Coords points="382,2901 473,2859 890,2875 1048,2960 1153,2893 1403,2873 1403,2821 1026,2803 981,2837 779,2786 622,2824 459,2750 383,2757"/>
+                <Baseline points="395,2859 444,2861 494,2862 544,2864 593,2865 643,2865 693,2867 742,2868 792,2868 842,2869 892,2870 941,2870 991,2870 1041,2870 1090,2870 1140,2870 1190,2868 1239,2868 1289,2867 1339,2867 1389,2865"/>
+                <TextEquiv>
+                    <Unicode>que vous me donnés que des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:11;}">
+                <Coords points="380,2994 778,3015 933,3087 1033,3027 1145,3029 1214,3075 1312,3023 1448,3016 1450,2922 967,2968 735,2881 583,2919 477,2864 383,2898"/>
+                <Baseline points="393,2975 445,2980 497,2985 549,2988 601,2992 653,2995 705,2997 757,2999 809,3001 861,3002 913,3003 965,3003 1017,3005 1069,3005 1121,3005 1173,3005 1225,3005 1277,3006 1329,3006 1381,3006 1434,3008"/>
+                <TextEquiv>
+                    <Unicode>mauvais Conseils ayent empêché</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:12;}">
+                <Coords points="337,3126 434,3151 501,3113 588,3159 1081,3140 1460,3192 1463,3114 1291,3111 1234,3064 1158,3110 761,3083 716,3047 631,3067 492,2987 429,3039 341,3043"/>
+                <Baseline points="350,3096 404,3103 459,3108 514,3113 569,3117 624,3121 679,3123 734,3126 789,3128 844,3131 899,3132 953,3134 1008,3135 1063,3137 1118,3138 1173,3141 1228,3144 1283,3147 1338,3151 1393,3155 1448,3161"/>
+                <TextEquiv>
+                    <Unicode>Les meurtriers de venir me donner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:13;} abbrev {offset:25; length:9;} textStyle {offset:32; length:1;superscript:true;}">
+                <Coords points="341,3232 507,3250 586,3328 681,3310 736,3348 930,3284 1455,3327 1463,3189 1304,3184 1189,3240 1118,3209 1021,3245 850,3193 652,3223 500,3112 435,3149 349,3115"/>
+                <Baseline points="354,3221 408,3231 462,3240 517,3248 571,3254 626,3259 680,3264 734,3269 789,3271 843,3275 898,3277 952,3278 1006,3280 1061,3282 1115,3284 1170,3286 1224,3288 1278,3291 1333,3295 1387,3299 1442,3303"/>
+                <TextEquiv>
+                    <Unicode>Leur Corps, je veux trés absolumt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:14;}">
+                <Coords points="345,3407 459,3374 726,3443 957,3415 1453,3450 1460,3344 1255,3370 1139,3296 971,3364 778,3365 589,3341 505,3249 355,3243"/>
+                <Baseline points="360,3351 414,3363 468,3373 522,3381 576,3389 630,3395 684,3399 738,3403 792,3407 846,3410 901,3411 955,3413 1009,3414 1063,3416 1117,3417 1171,3419 1225,3421 1279,3423 1333,3426 1387,3431 1442,3435"/>
+                <TextEquiv>
+                    <Unicode>qu'on me les ramene le Printems</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:15;} structure {type:paragraph;}">
+                <Coords points="339,3530 439,3509 478,3541 511,3531 574,3620 619,3592 656,3593 673,3504 595,3465 525,3388 510,3385 396,3453 358,3433"/>
+                <Baseline points="359,3495 385,3499 412,3504 438,3510 465,3515 491,3521 518,3526 544,3531 571,3537 597,3540 624,3545 651,3548"/>
+                <TextEquiv>
+                    <Unicode>prochain.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Il y a longtems que je suis
+village d'un françois qui y a été
+informé mes Enfans du meurtre
+qui a été fait dans votre village.
+Je veux bien croire que tout ce qui
+compose votre village n'a point entré dans
+ce meurtre, mais si vous vous attachiés
+à contenir vos jeunes gens, cela ne seroit
+pas arrivé.
+Je ne me paye point des raisons
+que vous me donnés que des
+mauvais Conseils ayent empêché
+Les meurtriers de venir me donner
+Leur Corps, je veux trés absolumt.
+qu'on me les ramene le Printems
+prochain.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1665018958654_98" custom="readingOrder {index:5;}">
+            <Coords points="1471,1333 2757,1333 2757,3687 1471,3687"/>
+            <TextLine id="r1l7" custom="readingOrder {index:0;}">
+                <Coords points="1502,1500 2640,1504 2609,1368 2370,1406 2203,1345 2026,1404 1586,1352 1503,1396"/>
+                <Baseline points="1515,1481 1570,1481 1626,1480 1681,1479 1737,1479 1793,1478 1848,1478 1904,1478 1960,1477 2015,1476 2071,1476 2127,1476 2182,1476 2238,1478 2294,1478 2349,1479 2405,1481 2461,1484 2516,1485 2572,1488 2628,1491"/>
+                <TextEquiv>
+                    <Unicode>Je viens vous avertir mon Pere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1665018958718_101" custom="readingOrder {index:1;}">
+                <Coords points="1471,1533 1679,1507 1767,1546 1908,1516 2074,1545 2272,1505 2345,1544 2457,1488 2567,1532 2645,1502 2628,1637 2501,1597 2363,1641 2181,1585 2097,1624 1881,1604 1813,1645 1725,1593 1597,1639 1471,1606"/>
+                <Baseline points="1476,1592 1533,1590 1591,1589 1649,1587 1706,1587 1764,1586 1822,1586 1879,1584 1937,1584 1995,1584 2053,1584 2110,1586 2168,1586 2226,1587 2283,1587 2341,1589 2399,1590 2456,1592 2514,1594 2572,1596 2630,1599"/>
+                <TextEquiv>
+                    <Unicode>de l'accident qui est arrivé dans notre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1665018958719_103" custom="readingOrder {index:2;} organization {offset:13; length:8;}">
+                <Coords points="1471,1608 1871,1664 1942,1620 2010,1658 2122,1622 2207,1667 2408,1656 2489,1600 2611,1614 2610,1801 2095,1708 1876,1766 1704,1701 1623,1750 1471,1715"/>
+                <Baseline points="1484,1698 1539,1697 1595,1697 1650,1697 1706,1697 1762,1697 1817,1698 1873,1698 1929,1698 1984,1698 2040,1698 2096,1700 2151,1700 2207,1701 2263,1701 2318,1703 2374,1704 2430,1704 2485,1706 2541,1707 2597,1709"/>
+                <TextEquiv>
+                    <Unicode>village d'un françois qui y a été</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+                <Coords points="1479,1830 1500,1827 1518,1837 1536,1832 1547,1838 1580,1819 1596,1817 1609,1830 1619,1822 1661,1820 1661,1731 1646,1728 1630,1736 1607,1715 1575,1744 1544,1736 1505,1757 1479,1754"/>
+                <Baseline points="1491,1808 1517,1809 1543,1809 1569,1809 1595,1809 1621,1809 1647,1809"/>
+                <TextEquiv>
+                    <Unicode>tué. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:4;}">
+                <Coords points="1509,2015 2159,1968 2402,1998 2513,1936 2623,1973 2621,1835 2502,1905 2390,1896 2295,1833 2150,1903 1841,1916 1649,1838 1606,1875 1506,1846"/>
+                <Baseline points="1520,1947 1574,1950 1628,1951 1683,1952 1737,1952 1792,1952 1846,1951 1901,1950 1955,1949 2010,1947 2064,1946 2118,1944 2173,1943 2227,1941 2282,1940 2336,1938 2391,1938 2445,1938 2500,1938 2554,1938 2609,1940"/>
+                <TextEquiv>
+                    <Unicode>Je vous assure, mon Pere que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:5;}">
+                <Coords points="1474,2097 1705,2136 1857,2086 1934,2129 2008,2088 2224,2075 2306,2115 2425,2073 2520,2131 2665,2117 2662,1977 2596,1952 2447,2010 2360,1968 1960,2039 1839,1990 1472,2006"/>
+                <Baseline points="1488,2087 1546,2085 1604,2085 1662,2084 1720,2084 1778,2082 1836,2081 1895,2081 1953,2079 2011,2078 2069,2077 2127,2076 2185,2075 2243,2073 2302,2072 2360,2070 2418,2067 2476,2066 2534,2064 2592,2061 2651,2060"/>
+                <TextEquiv>
+                    <Unicode>Le Village n'a point trempé dans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:6;}">
+                <Coords points="1493,2215 1975,2211 2084,2261 2245,2212 2412,2281 2495,2221 2589,2216 2589,2127 2399,2090 2214,2131 2025,2087 1923,2136 1860,2094 1579,2143 1493,2114"/>
+                <Baseline points="1506,2205 1559,2205 1613,2204 1666,2204 1720,2204 1773,2205 1827,2205 1880,2207 1934,2207 1987,2208 2041,2210 2094,2210 2148,2210 2201,2211 2255,2211 2308,2210 2362,2210 2415,2208 2469,2206 2522,2204 2576,2199"/>
+                <TextEquiv>
+                    <Unicode>cette mauvaise affaire, qu'il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:7;}">
+                <Coords points="1498,2407 1915,2435 2100,2420 2162,2377 2303,2435 2459,2376 2615,2392 2614,2290 2481,2269 1965,2302 1852,2220 1679,2306 1497,2298"/>
+                <Baseline points="1511,2342 1565,2343 1619,2343 1674,2343 1728,2343 1783,2343 1837,2343 1892,2342 1946,2342 2001,2342 2055,2341 2109,2340 2164,2340 2218,2339 2273,2337 2327,2336 2382,2334 2436,2333 2491,2331 2545,2330 2600,2327"/>
+                <TextEquiv>
+                    <Unicode>n'y a que deux jeunes gens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:8;}">
+                <Coords points="1507,2539 1691,2491 1940,2542 2261,2507 2450,2554 2537,2504 2657,2583 2707,2566 2710,2451 2616,2381 2333,2457 2134,2399 1885,2447 1511,2414"/>
+                <Baseline points="1521,2469 1579,2473 1638,2476 1697,2478 1756,2480 1815,2481 1873,2483 1932,2484 1991,2486 2050,2487 2109,2489 2167,2490 2226,2490 2285,2492 2344,2493 2403,2495 2461,2497 2520,2499 2579,2501 2638,2504 2697,2507"/>
+                <TextEquiv>
+                    <Unicode>qui ont commis ce meurtre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:9;}">
+                <Coords points="1561,2770 2391,2783 2479,2830 2670,2776 2674,2654 2576,2606 2377,2655 2292,2616 2089,2697 1952,2664 1881,2704 1669,2627 1565,2634"/>
+                <Baseline points="1575,2750 1629,2750 1683,2751 1737,2754 1791,2755 1845,2757 1899,2757 1954,2759 2008,2761 2062,2763 2116,2765 2170,2766 2224,2768 2278,2769 2333,2771 2387,2772 2441,2774 2495,2775 2549,2777 2603,2778 2658,2780"/>
+                <TextEquiv>
+                    <Unicode>Je vous avertis, mon Pere que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:10;}">
+                <Coords points="1485,2914 1608,2894 1713,2962 1814,2900 1928,2989 2087,2907 2350,2912 2566,3006 2657,2923 2742,2941 2746,2798 2434,2784 2244,2865 1800,2826 1747,2859 1619,2793 1487,2844"/>
+                <Baseline points="1500,2885 1561,2886 1623,2888 1684,2891 1746,2892 1807,2894 1869,2895 1930,2896 1992,2897 2053,2898 2115,2900 2176,2901 2238,2903 2299,2904 2361,2906 2422,2909 2484,2910 2545,2913 2607,2916 2668,2919 2730,2924"/>
+                <TextEquiv>
+                    <Unicode>ces deux jeunes gens m'avoient promis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:11;}">
+                <Coords points="1492,3043 1753,3031 1907,3118 2041,3043 2221,3044 2438,3122 2696,3128 2699,3001 2519,3004 2425,2919 2313,2997 2249,2967 2199,3005 1621,2989 1494,2949"/>
+                <Baseline points="1505,3021 1564,3024 1623,3026 1682,3029 1741,3030 1800,3032 1859,3035 1918,3036 1977,3038 2036,3039 2095,3041 2154,3042 2213,3044 2272,3045 2331,3045 2390,3047 2449,3047 2508,3048 2567,3048 2626,3048 2685,3048"/>
+                <TextEquiv>
+                    <Unicode>de venir vous jetter leur Corps,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:12;}">
+                <Coords points="1496,3242 2007,3218 2422,3287 2752,3208 2755,3078 2641,3146 2564,3102 2162,3149 1980,3116 1753,3146 1681,3097 1498,3125"/>
+                <Baseline points="1511,3174 1572,3175 1633,3176 1695,3177 1756,3179 1817,3180 1879,3182 1940,3182 2001,3183 2063,3185 2124,3186 2185,3188 2247,3189 2308,3189 2369,3191 2431,3192 2492,3194 2553,3195 2615,3197 2676,3198 2738,3198"/>
+                <TextEquiv>
+                    <Unicode>Mais apparemment ils ont reçu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:13;}">
+                <Coords points="1500,3382 1602,3342 1898,3410 2354,3369 2509,3445 2698,3373 2770,3406 2772,3288 2705,3261 2564,3295 2460,3264 2413,3303 2312,3251 2074,3304 1502,3265"/>
+                <Baseline points="1515,3329 1577,3333 1639,3336 1701,3339 1763,3341 1825,3342 1887,3344 1949,3344 2011,3345 2073,3345 2136,3345 2198,3347 2260,3347 2322,3347 2384,3348 2446,3350 2508,3351 2570,3353 2632,3355 2694,3358 2757,3362"/>
+                <TextEquiv>
+                    <Unicode>quelques mauvais Conseils, ce qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:14;}">
+                <Coords points="1510,3554 1602,3502 1684,3540 1912,3507 1968,3545 2547,3514 2686,3582 2717,3375 2429,3449 2103,3457 1961,3393 1819,3455 1605,3393 1512,3445"/>
+                <Baseline points="1524,3483 1582,3487 1641,3489 1700,3492 1759,3495 1818,3498 1876,3500 1935,3501 1994,3504 2053,3505 2112,3507 2170,3507 2229,3509 2288,3510 2347,3510 2406,3512 2464,3512 2523,3512 2582,3512 2641,3512 2700,3510"/>
+                <TextEquiv>
+                    <Unicode>fait que ces deux meurtriers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:15;}">
+                <Coords points="1511,3671 1748,3651 1844,3720 1917,3674 1984,3703 2188,3667 2255,3696 2373,3664 2500,3681 2502,3538 2388,3526 2280,3606 1983,3602 1896,3541 1752,3544 1684,3587 1512,3577"/>
+                <Baseline points="1524,3642 1572,3644 1620,3645 1668,3646 1716,3647 1764,3648 1812,3649 1861,3650 1909,3651 1957,3651 2005,3651 2053,3653 2101,3653 2149,3653 2198,3654 2246,3654 2294,3654 2342,3654 2390,3656 2438,3656 2487,3656"/>
+                <TextEquiv>
+                    <Unicode>ne sont point venus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Je viens vous avertir mon Pere
+de l'accident qui est arrivé dans notre
+village d'un françois qui y a été
+tué. 
+Je vous assure, mon Pere que
+Le Village n'a point trempé dans
+cette mauvaise affaire, qu'il
+n'y a que deux jeunes gens
+qui ont commis ce meurtre
+Je vous avertis, mon Pere que
+ces deux jeunes gens m'avoient promis
+de venir vous jetter leur Corps,
+Mais apparemment ils ont reçu
+quelques mauvais Conseils, ce qui
+fait que ces deux meurtriers
+ne sont point venus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

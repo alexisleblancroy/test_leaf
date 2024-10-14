@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Nouvelle-France (17e-18e)(htr_id=40882)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-08-06T00:32:14.098+02:00</Created>
+        <LastChange>2022-10-06T03:52:53.413+02:00</LastChange>
+        <TranskribusMetadata docId="1110969" pageId="45877452" pageNr="5" tsid="96852967" status="FINAL" userId="13842" imgUrl="https://files.transkribus.eu/Get?id=CSNKVESSLJXCKPRCKLVBEHGR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NVMNVUTSCTAZAVGCJQVCILHU" imageId="37321748"/>
+    </Metadata>
+    <Page imageFilename="IMG_2867_00.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1728915637528" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="395,575 395,1847 1442,1847 1442,575"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="401,683 639,624 798,629 861,667 974,634 1149,665 1379,631 1328,583 1141,589 1095,555 1005,603 918,575 707,596 567,557 468,612 401,592"/>
+                <Baseline points="407,648 455,641 503,636 551,631 600,627 648,624 696,624 745,623 793,623 841,624 890,624 938,626 986,627 1034,629 1083,630 1131,632 1179,633 1228,633 1276,633 1324,632 1373,630"/>
+                <TextEquiv>
+                    <Unicode>dans votre mémoire, Je veux bien vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="401,786 580,737 701,795 781,742 855,773 985,741 1316,766 1407,734 1407,630 1010,708 885,672 786,703 401,686"/>
+                <Baseline points="407,746 456,740 506,735 555,731 605,728 655,725 704,725 754,723 804,725 853,725 903,726 953,728 1002,729 1052,731 1102,732 1151,733 1201,734 1251,735 1300,735 1350,734 1400,734"/>
+                <TextEquiv>
+                    <Unicode>faire quelques petits présens Et vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="389,876 685,834 815,893 959,836 1328,868 1368,849 1367,771 873,808 591,782 388,816"/>
+                <Baseline points="395,861 443,854 491,847 539,841 588,838 636,834 684,832 733,831 781,830 829,830 878,831 926,831 974,833 1022,833 1071,834 1119,834 1167,834 1216,834 1264,833 1312,830 1361,827"/>
+                <TextEquiv>
+                    <Unicode>donner des vivres pour votre retour,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="406,988 804,950 980,990 1078,944 1400,972 1424,867 1196,910 770,878 684,916 406,928"/>
+                <Baseline points="413,965 463,958 513,953 563,950 614,945 664,944 714,942 764,941 815,941 865,941 915,942 965,942 1016,943 1066,944 1116,945 1166,945 1217,945 1267,945 1317,945 1367,944 1418,942"/>
+                <TextEquiv>
+                    <Unicode>mais vous pouvés signifier à tout votre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="400,1136 517,1089 621,1113 836,1062 928,1067 977,1109 1108,1066 1413,1065 1448,1048 1448,988 1279,1030 398,1021"/>
+                <Baseline points="405,1074 456,1070 508,1065 560,1062 612,1060 664,1058 716,1056 767,1056 819,1055 871,1055 923,1055 975,1055 1027,1056 1079,1056 1130,1056 1182,1056 1234,1056 1286,1056 1338,1055 1390,1055 1442,1053"/>
+                <TextEquiv>
+                    <Unicode>village qu'ils n'auront jamais rien de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="396,1254 570,1207 624,1242 751,1236 840,1181 1013,1211 1101,1182 1195,1231 1361,1176 1361,1142 966,1147 849,1107 737,1149 394,1144"/>
+                <Baseline points="402,1193 449,1189 497,1187 544,1184 592,1182 640,1181 687,1179 735,1178 783,1178 830,1177 878,1176 926,1176 973,1176 1021,1175 1069,1175 1116,1175 1164,1173 1212,1173 1259,1172 1307,1170 1355,1169"/>
+                <TextEquiv>
+                    <Unicode>moy que je ne sois convaincu par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} textStyle {offset:19; length:2;strikethrough:true;}">
+                <Coords points="392,1335 496,1354 590,1319 669,1353 798,1297 1078,1349 1175,1296 1430,1298 1438,1237 713,1263 567,1208 487,1271 390,1287"/>
+                <Baseline points="398,1323 449,1317 501,1311 553,1307 605,1304 656,1301 708,1299 760,1298 812,1296 863,1296 915,1296 967,1295 1019,1295 1070,1295 1122,1294 1174,1293 1226,1292 1277,1289 1329,1287 1381,1282 1433,1277"/>
+                <TextEquiv>
+                    <Unicode>des fortes preuves et qu'ils sont soumis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="402,1446 1375,1427 1416,1411 1414,1343 1285,1385 1117,1364 962,1390 783,1345 644,1389 557,1363 481,1399 400,1384"/>
+                <Baseline points="408,1443 458,1437 508,1432 558,1428 608,1425 658,1422 708,1421 758,1419 808,1418 858,1418 908,1416 958,1416 1008,1415 1058,1415 1108,1413 1158,1413 1208,1410 1258,1408 1308,1405 1358,1401 1409,1397"/>
+                <TextEquiv>
+                    <Unicode>à ma volonté Et qu'on ne m'amene les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="405,1580 457,1559 653,1556 697,1539 800,1554 808,1490 745,1477 718,1497 635,1484 573,1514 511,1493 402,1492"/>
+                <Baseline points="411,1554 437,1553 463,1551 489,1550 515,1548 542,1546 568,1544 594,1543 620,1542 646,1541 673,1541 699,1539 725,1541 751,1542 777,1543 804,1545"/>
+                <TextEquiv>
+                    <Unicode>Meurtriers./.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dans votre mémoire, Je veux bien vous
+faire quelques petits présens Et vous
+donner des vivres pour votre retour,
+mais vous pouvés signifier à tout votre
+village qu'ils n'auront jamais rien de
+moy que je ne sois convaincu par
+des fortes preuves et qu'ils sont soumis
+à ma volonté Et qu'on ne m'amene les
+Meurtriers./.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

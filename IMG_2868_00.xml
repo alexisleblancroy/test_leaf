@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Nouvelle-France (17e-18e)(htr_id=40882)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-08-06T00:32:14.266+02:00</Created>
+        <LastChange>2022-09-28T04:11:09.084+02:00</LastChange>
+        <TranskribusMetadata docId="1110969" pageId="45877455" pageNr="6" tsid="96406339" status="IN_PROGRESS" userId="109812" imgUrl="https://files.transkribus.eu/Get?id=BJQHJYYPEQMXBKOGZJYTESFO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJCWBXFQCBDXQSJPRHTJOCJX" imageId="37321751"/>
+    </Metadata>
+    <Page imageFilename="IMG_2868_00.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1664325927807" caption="Regions reading order">
+                <RegionRefIndexed index="0"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    </Page>
+</PcGts>
